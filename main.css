@@ -64,8 +64,8 @@ body {
 
 #my-name {
     font-size: 3rem;
-    font-family: cursive;
-    color: whitesmoke;
+    font-family: ui-sans-serif;
+    color: #ff7171cf;
     letter-spacing: 0.1rem;
     font-weight: 700;
     margin-bottom: 0.5rem;
