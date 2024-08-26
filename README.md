@@ -1,2 +1,1 @@
-# Mohit_Jangid
-Here are a Portfolio project for better understanding of how a developer give structure to a website and then develops its Frontend afterwards how actually things are working at the Backend level. I made this Project as My Resume in my journey of becoming Full Stack Developer.
+Here is my Personal Portfolio, showcasing my work as a Web Developer. I plan to update this project in the future using newer technologies to enhance performance and scalability.
